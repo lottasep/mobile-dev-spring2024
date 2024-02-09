@@ -10,7 +10,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Hello world!</Text>
+      <Text style={styles.text}>Welcome to the app!</Text>
       <TextInput
         style={styles.input}
         placeholder='Write your message here'
